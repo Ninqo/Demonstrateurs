@@ -1,4 +1,3 @@
-=======
 # 🎓 Projet de Licence 3 - Démonstrateurs Algorithmiques
 
 Ce dépôt contient les travaux réalisés dans le cadre de ma Licence 3 en Informatique. Il regroupe trois démonstrateurs interactifs illustrant des concepts clés de l'algorithmique et de la théorie des graphes au travers d'interfaces graphiques modernes.
