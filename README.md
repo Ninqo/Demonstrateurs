@@ -42,7 +42,7 @@ Ce dépôt contient les travaux réalisés dans le cadre de ma Licence 3 en Info
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [[https://github.com/VOTRE_UTILISATEUR/demonstrateurs.git](https://github.com/Ninqo/Demonstrateurs.git)](https://github.com/VOTRE_UTILISATEUR/demonstrateurs.git)
+   git clone [[https://github.com/VOTRE_UTILISATEUR/demonstrateurs.git](https://github.com/Ninqo/Demonstrateurs.git)]
    cd demonstrateurs
 
 2. **Installer les dépendances:**
