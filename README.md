@@ -69,7 +69,7 @@ Pour simplifier la mise en place du projet, des scripts de lancement rapide sont
 ## 📄 Documentation technique
 Le rapport de projet complet (contenant l'analyse architecturale, les justifications mathématiques, les scénarios de tests et l'analyse de performances) est disponible au format PDF à la racine du dépôt.
 
-> **[Accéder au Rapport_L3.pdf](Rapport_Demonstrateurs_Montois_Leo.pdf)**
+> **[Accéder au Rapport_L3.pdf](Rapport_Demonstrateur_Montois_Leo.pdf)**
 
 ---
 
